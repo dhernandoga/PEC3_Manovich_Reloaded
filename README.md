@@ -40,7 +40,7 @@ En un solo entorno, los diseñadores pueden crear elementos visuales, vincular i
 Además, Figma aplica los principios de modularidad y variabilidad mediante el uso de componentes reutilizables, actualizables y adaptables. También permite integraciones con otras plataformas, ampliando su funcionalidad a través de plugins o conexiones con código. Figma es, por tanto, un entorno donde convergen diseño, programación y colaboración, ofreciendo una experiencia que representa de forma clara la hibridación cultural impulsada por el software.
 
 🔗 [Sitio web de Figma](https://www.figma.com)  
-📽️ [Vídeo: ¿Qué es Figma y para qué sirve?](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+📽️ [Vídeo: ¿Qué es Figma y para qué sirve?](https://youtu.be/VdS9ZGHHXWQ?si=-mW-uyIDFCzADNvs)
 
 ---
 
