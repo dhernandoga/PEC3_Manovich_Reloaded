@@ -50,7 +50,7 @@ Además, Figma aplica los principios de modularidad y variabilidad mediante el u
 
 ----
 
-## Licencia
+### Licencia
 
 Este contenido se publica bajo la licencia [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Puedes compartirlo, reutilizarlo y adaptarlo siempre que cites la autoría original y mantengas esta misma licencia en tus versiones derivadas.
 
