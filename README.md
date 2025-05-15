@@ -50,6 +50,12 @@ Además, Figma aplica los principios de modularidad y variabilidad mediante el u
 
 ---
 
+## Conclusiones
+
+Notion y Figma representan dos ejemplos claros de cómo la lógica del software ha transformado no solo nuestras herramientas, sino también nuestras formas de pensar, crear y colaborar. Ambas plataformas encarnan lo que Manovich define como hibridación, al integrar funciones, medios y modelos culturales antes separados en una sola experiencia interactiva. Esta fusión no es meramente técnica: implica una nueva manera de construir conocimiento y cultura en red, más modular, automatizada y abierta al cambio. Como metamedios, Notion y Figma no solo nos permiten hacer más cosas, sino hacerlo de manera diferente: conectando lo visual con lo estructural, lo individual con lo colectivo, y lo narrativo con lo funcional. Su análisis confirma que el software no solo toma el mando, sino que sigue expandiendo sus fronteras como lenguaje cultural dominante.
+
+---
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Editorial Advisory Board. 
