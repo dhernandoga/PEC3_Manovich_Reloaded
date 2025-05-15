@@ -29,6 +29,9 @@ En definitiva, Notion no solo unifica funciones, sino que promueve una nueva man
 🔗 [Sitio web de Notion](https://www.notion.so)  
 📽️ [Vídeo introductorio a Notion](https://www.youtube.com/watch?v=oTahLEX3NXo)
 
+![Interfaz de Notion](https://github.com/dhernandoga/PEC3_Manovich_Reloaded/raw/main/img/notion_img.png)
+
+
 ---
 
 ## Caso 2: Figma
