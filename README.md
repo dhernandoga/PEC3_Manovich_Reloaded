@@ -45,7 +45,7 @@ Además, Figma aplica los principios de modularidad y variabilidad mediante el u
 🔗 [Sitio web de Figma](https://www.figma.com)  
 📽️ [Vídeo: ¿Qué es Figma y para qué sirve?](https://youtu.be/VdS9ZGHHXWQ?si=-mW-uyIDFCzADNvs)
 
-![Interfaz de Notion](https://github.com/dhernandoga/PEC3_Manovich_Reloaded/raw/main/img/figma_img.png)
+![Interfaz de Figma](https://github.com/dhernandoga/PEC3_Manovich_Reloaded/raw/main/img/figma_img.jpg)
 
 
 ---
