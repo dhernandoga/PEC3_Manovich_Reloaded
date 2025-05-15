@@ -52,7 +52,7 @@ Además, Figma aplica los principios de modularidad y variabilidad mediante el u
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Editorial Advisory Board. 
 
 ----
 
