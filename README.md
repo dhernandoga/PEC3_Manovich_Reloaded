@@ -1,10 +1,9 @@
 # PEC3 - Manovich Reloaded: Notion y Figma
 
-**Autor:** [Tu nombre completo]  
+**Autor:** Diego Hernand García 
 **Asignatura:** Cultura Digital  
 **Grado en Ingeniería Multimedia - UOC**  
 **Curso:** 1º - Segundo semestre  
-**Repositorio creado para la PEC 3**  
 **Licencia:** [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
